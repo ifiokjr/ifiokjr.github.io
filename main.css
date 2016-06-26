@@ -1,0 +1,24 @@
+@import 'https://fonts.googleapis.com/css?family=Open+Sans:300,400|Syncopate';
+
+
+body {
+  font-family: 'Open Sans';
+  margin-top: 40px;
+}
+
+.heading {
+  font-family: 'Syncopate', sans-serif;
+  margin: 0 auto;
+  max-width: 50%;
+  padding: 25px;
+  text-align: center;
+}
+
+.paragraph {
+  font-weight: 300;
+  margin: 0 auto;
+  width: 100%;
+  padding: 0;
+  text-align: justify;
+  letter-spacing: 1px;
+}
